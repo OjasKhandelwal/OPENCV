@@ -1,1 +1,2 @@
 # OPENCV
+Whatever I'VE LEARNED IN OPENCV
